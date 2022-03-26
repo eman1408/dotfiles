@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = etado1408@gmail.com
+	name = Ethan Tadokoro
